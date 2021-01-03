@@ -1,0 +1,13 @@
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\bin\Debug\netcoreapp3.1\album-da-copa.exe
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\bin\Debug\netcoreapp3.1\album-da-copa.deps.json
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\bin\Debug\netcoreapp3.1\album-da-copa.runtimeconfig.json
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\bin\Debug\netcoreapp3.1\album-da-copa.runtimeconfig.dev.json
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\bin\Debug\netcoreapp3.1\album-da-copa.dll
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\bin\Debug\netcoreapp3.1\album-da-copa.pdb
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\obj\Debug\netcoreapp3.1\album-da-copa.csprojAssemblyReference.cache
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\obj\Debug\netcoreapp3.1\album-da-copa.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\obj\Debug\netcoreapp3.1\album-da-copa.AssemblyInfo.cs
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\obj\Debug\netcoreapp3.1\album-da-copa.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\obj\Debug\netcoreapp3.1\album-da-copa.dll
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\obj\Debug\netcoreapp3.1\album-da-copa.pdb
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\album-da-copa\album-da-copa\obj\Debug\netcoreapp3.1\album-da-copa.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\bin\Debug\netcoreapp3.1\calculo-de-viagem.exe
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\bin\Debug\netcoreapp3.1\calculo-de-viagem.deps.json
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\bin\Debug\netcoreapp3.1\calculo-de-viagem.runtimeconfig.json
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\bin\Debug\netcoreapp3.1\calculo-de-viagem.runtimeconfig.dev.json
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\bin\Debug\netcoreapp3.1\calculo-de-viagem.dll
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\bin\Debug\netcoreapp3.1\calculo-de-viagem.pdb
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\obj\Debug\netcoreapp3.1\calculo-de-viagem.csprojAssemblyReference.cache
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\obj\Debug\netcoreapp3.1\calculo-de-viagem.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\obj\Debug\netcoreapp3.1\calculo-de-viagem.AssemblyInfo.cs
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\obj\Debug\netcoreapp3.1\calculo-de-viagem.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\obj\Debug\netcoreapp3.1\calculo-de-viagem.dll
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\obj\Debug\netcoreapp3.1\calculo-de-viagem.pdb
+D:\workspace\bootcamp-gft-start-uni-2021\desafios\calculo-de-viagem\calculo-de-viagem\obj\Debug\netcoreapp3.1\calculo-de-viagem.genruntimeconfig.cache
